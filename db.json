@@ -35,6 +35,44 @@
       "Maslo": "neft",
       "Solfsd": "kurpbenko"
     }
+  ],
+
+  "product": [
+    {
+      "id": "laki",
+      "name": "oladki",
+      "kartinka": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT67EiEMoRzrd_lrspypxNR4gLZu9QtH4wfUrENUurkl9EJx-b3QdNIdHc&s=10",
+      "shrek": 3,
+      "color": "блять"
+    },
+    {
+      "id": "lkoris",
+      "name": "komushki",
+      "kartinka": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT67EiEMoRzrd_lrspypxNR4gLZu9QtH4wfUrENUurkl9EJx-b3QdNIdHc&s=10",
+      "shrek": 0,
+      "color": "fu"
+    },
+    {
+      "id": "la5",
+      "name": "okkkkkk",
+      "kartinka": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT67EiEMoRzrd_lrspypxNR4gLZu9QtH4wfUrENUurkl9EJx-b3QdNIdHc&s=10",
+      "shrek": 8,
+      "color": 6
+    },
+    {
+      "id": "kjkfdkf",
+      "name": "data",
+      "kartinka": "ttta",
+      "shrek": 333,
+      "color": "oooooo"
+    },
+    {
+      "id": "ivanasa",
+      "name": "kukarechiki",
+      "kartinka": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT67EiEMoRzrd_lrspypxNR4gLZu9QtH4wfUrENUurkl9EJx-b3QdNIdHc&s=10",
+      "shrek": "shrek",
+      "color": "cvet"
+    }
   ]
 }
 
